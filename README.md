@@ -13,18 +13,16 @@ From government systems to student dashboards, I bring both precision and creati
 
 ## 🛠️ Skills & Tools
 
-**Languages**:  
-`HTML` • `CSS` • `JavaScript` • `Python` • `Swift` • `SQL` • `C++`
+**Languages & Tools**:
 
-**Frameworks & Tools**:  
-`Power BI` • `Chart.js` • `Framer` • `Figma` • `Tailwind` (learning) • `React` (learning)
-
-**Areas of Focus**:  
-- 🎨 UX/UI Design  
-- 📊 Data Visualization  
-- ⚙️ App Prototyping  
-- 📱 Mobile Interfaces  
-- 🧠 Accessibility & Real-World Usability
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ---
 
@@ -37,27 +35,40 @@ A live pie chart expense tracker built with vanilla JS + Chart.js. Includes CSV 
 
 ---
 
-## 📚 Currently Building & Exploring
+## 🧠 Currently Building & Exploring
 - 📱 A reflex-based mobile game in Swift (Reflex Tap)
-- 🧠 Productivity tools for study and task management
 - 📊 Finance dashboards with interactive charting
-- 🔄 Smart daily planners powered by energy-level tracking
+- 🌐 A personal portfolio powered by Framer and GitHub Pages
 
 ---
 
-## 🧠 Fun Facts About Me
-- 🪖 I served in the U.S. Army as a Signal Systems Specialist  
-- 💻 I work as an IT technician supporting over 600 users  
-- 🌎 I’ve deployed overseas and maintained networks in desert environments  
-- 🎓 Informatics major @ Indiana University (Graduating Spring 2026)
+## 🎵 Now Playing on Spotify
+[![Spotify](https://novatorem-ceifling98.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+---
+
+## 🐍 Contribution Activity
+> GitHub Contribution Snake
+
+![snake gif](https://github.com/ceifling98/ceifling98/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🪖 U.S. Army veteran (Signal Systems Support Specialist)
+- 💻 IT Technician for Monroe County Government
+- 🎓 Informatics major @ Indiana University (Class of 2026)
 
 ---
 
 ## 📫 Let’s Connect
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/eifling-patterson/)
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eifling-patterson/)
 - ✉️ ceifling98@gmail.com
 
 ---
 
 > "Build with intention. Design for humans. Deploy with pride."
+
