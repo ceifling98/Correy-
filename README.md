@@ -63,7 +63,7 @@ Built with **vanilla JS**, **Chart.js**, and **localStorage** — no backend nee
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eifling-patterson/)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceifling98@gmail.com)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceifling98@gmail.com) 
 
 
 ---
