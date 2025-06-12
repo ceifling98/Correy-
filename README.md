@@ -36,6 +36,13 @@
 
 ## 📌 Featured Projects
 
+### 🧑‍💼 [HR Dashboard](https://github.com/ceifling98/HR-Dashboard)
+A full-featured front-end HR management dashboard with interactive tables, gender pie chart, dark/light mode toggle, data import/export, and responsive UI.
+
+> 🔗 **[Live Demo](https://ceifling98.github.io/HR-Dashboard/)**
+
+---
+
 ### 💸 [Spending Dashboard](https://github.com/ceifling98/spending-dashboard)
 A minimalist web dashboard to track your expenses with pie chart visualization.  
 Built with **vanilla JS**, **Chart.js**, and **localStorage** — no backend needed.
