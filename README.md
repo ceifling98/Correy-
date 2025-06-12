@@ -1,74 +1,73 @@
-# 👋 Hi, I'm Correy Eifling-Patterson
+<h1 align="center">👋 Hi, I'm Correy Eifling-Patterson</h1>
 
-🎯 I'm a front-end developer and military veteran with a strong foundation in IT, UX design, and building functional tools that actually help people.  
-From government systems to student dashboards, I bring both precision and creativity to everything I build.
-
----
-
-## 🧭 Mission
-
-> Design intuitive digital tools that feel seamless, solve real-world problems, and are accessible to everyone — whether in a browser, a cockpit, or on the go.
+<p align="center">
+  🎖 Front-End Developer • 🪖 Army Veteran • 💻 Informatics Major  
+  <br>
+  Building tools that blend design, tech, and real-world impact.
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🎯 Mission
 
-**Languages & Tools**:
+> 🎨 *Design intuitive digital tools that feel seamless, solve real-world problems, and are accessible to everyone — whether in a browser, a cockpit, or on the go.*
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+---
+
+## 🚀 Tech Stack & Tools
+
+**Languages & Frameworks**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+**UX, UI, and Prototyping**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+**Data & Reporting**  
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 💸 [Spending Dashboard](https://github.com/ceifling98/spending-dashboard)
-A live pie chart expense tracker built with vanilla JS + Chart.js. Includes CSV export, filters, and localStorage.
+A minimalist web dashboard to track your expenses with pie chart visualization.  
+Built with **vanilla JS**, **Chart.js**, and **localStorage** — no backend needed.
 
-> [🔗 Try it live](https://ceifling98.github.io/spending-dashboard/)
+> 🔗 **[Live Demo](https://ceifling98.github.io/spending-dashboard/)**
 
 ---
 
 ## 🧠 Currently Building & Exploring
-- 📱 A reflex-based mobile game in Swift (Reflex Tap)
-- 📊 Finance dashboards with interactive charting
-- 🌐 A personal portfolio powered by Framer and GitHub Pages
 
----
-
-## 🎵 Now Playing on Spotify
-[![Spotify](https://novatorem-ceifling98.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
----
-
-## 🐍 Contribution Activity
-> GitHub Contribution Snake
-
-![snake gif](https://github.com/ceifling98/ceifling98/blob/output/github-contribution-grid-snake.svg)
+- 📱 Reflex Tap – a mobile reaction-time game built in Swift
+- 📊 Finance dashboards with monthly breakdowns
+- 🌐 Portfolio site redesign using **Framer** and **GitHub Pages**
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🪖 U.S. Army veteran (Signal Systems Support Specialist)
-- 💻 IT Technician for Monroe County Government
-- 🎓 Informatics major @ Indiana University (Class of 2026)
+- 🪖 **U.S. Army Veteran** – Signal Systems Support Specialist  
+- 💻 **IT Technician** – Monroe County Government (supporting 600+ users)  
+- 🎓 **Informatics Major @ Indiana University** – Class of 2026
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s Connect!
 
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/eifling-patterson/)
-- ✉️ ceifling98@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eifling-patterson/)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceifling98@gmail.com)
+
 
 ---
 
-> "Build with intention. Design for humans. Deploy with pride."
+> “Build with intention. Design for humans. Deploy with pride.” ✨
+
 
