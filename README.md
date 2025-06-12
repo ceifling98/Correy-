@@ -40,7 +40,7 @@
 A minimalist web dashboard to track your expenses with pie chart visualization.  
 Built with **vanilla JS**, **Chart.js**, and **localStorage** — no backend needed.
 
-> 🔗 **[Live Demo]([https://ceifling98.github.io/spending-dashboard/](https://ceifling98.github.io/spending-dashboard/))**
+> 🔗 **[Live Demo](https://ceifling98.github.io/spending-dashboard/)**
 
 ---
 
