@@ -10,7 +10,7 @@
 
 ## 🎯 Mission
 
-> 🎨 *Design intuitive digital tools that feel seamless, solve real-world problems, and are accessible to everyone — whether in a browser, a cockpit, or on the go.*
+> 🎨 *Design intuitive digital tools that feel seamless, solve real-world problems, and are accessible to everyone, whether in a browser, a cockpit, or on the go.*
 
 ---
 
